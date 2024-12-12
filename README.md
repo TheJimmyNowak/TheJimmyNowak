@@ -1,5 +1,2 @@
 ## Helo there
-
-I'm Jimmy the electronics fanboy! 
-
-I'm currently enjoing data analysis and machine learning ;)
+I'm programmer, ham radio operator and I love AI and machine learning. I'm creating a blog [radiowplecaku.pl](https://radiowplecaku.pl)
